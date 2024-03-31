@@ -15,7 +15,7 @@ from dank.DankGenerator import DankGenerator
 
 
 MEMO = {}
-LOGFILE_NAME = 'logs/regulator.log'
+LOGFILE_NAME = '/home/op/recon/regulator/logs/regulator.log'
 DNS_CHARS = string.ascii_lowercase + string.digits + '._-'
 
 
